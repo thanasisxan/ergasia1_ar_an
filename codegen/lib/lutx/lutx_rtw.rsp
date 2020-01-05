@@ -1,0 +1,6 @@
+lutx.obj
+lutx_initialize.obj
+lutx_terminate.obj
+rtGetInf.obj
+rtGetNaN.obj
+rt_nonfinite.obj
